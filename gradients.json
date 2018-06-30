@@ -1339,5 +1339,9 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
+    },
+    {
+        "name": "Grade Grey",
+        "colors": ["#FFD6A6","#FA55CD"]
     }
 ]
